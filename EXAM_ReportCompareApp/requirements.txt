@@ -1,0 +1,3 @@
+#Required python modules:
+
+customtkinter

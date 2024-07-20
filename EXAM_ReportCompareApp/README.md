@@ -1,0 +1,1 @@
+Suggestion for project structure: https://python.plainenglish.io/a-practical-guide-to-python-project-structure-and-packaging-90c7f7a04f95
